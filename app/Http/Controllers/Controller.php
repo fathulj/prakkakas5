@@ -9,6 +9,7 @@ use Illuminate\Routing\Controller as BaseController;
 
 class Controller extends BaseController
     testingg
+    ini adalah fathul
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 }
